@@ -1,0 +1,24 @@
+package com.dku.ggikko;
+
+public class Test01 {
+	
+	public static void main(String[] args) {
+		System.out.println("hello world!");
+		int i1;
+		double d1; 
+		String s = "5000";
+		
+		Integer i = new Integer(50);
+		Double d = new Double(12.34);
+		
+		
+		
+		i1 = Integer.parseInt(s);
+		
+		
+		System.out.println(i);
+
+		
+	}
+
+}

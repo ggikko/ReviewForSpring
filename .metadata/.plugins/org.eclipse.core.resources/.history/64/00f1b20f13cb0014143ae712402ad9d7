@@ -1,0 +1,10 @@
+package com.dku.ggikko;
+
+public class Test01 {
+	
+	public static void main(String[] args) {
+		System.err.println("hello world!");
+	
+	}
+
+}
